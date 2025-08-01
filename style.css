@@ -1,0 +1,14 @@
+body
+{
+    height: 100vh;
+}
+td,th
+{
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #4a4a4a;
+}
+input
+{
+    width: calc(85% / 3) !important;
+}
